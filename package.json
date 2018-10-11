@@ -1,0 +1,14 @@
+{
+  "name": "json-set-string",
+  "version": "1.0.3",
+  "description": "Set string value at a path in a JSON file",
+  "main": "json-set-string.js",
+  "bin": {
+    "json-set-string": "./json-set-string.js"
+  },
+  "repository": "https://github.com/gimlids/json-set-string",
+  "author": "David Stolarsky",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
