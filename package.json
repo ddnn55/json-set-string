@@ -1,6 +1,6 @@
 {
   "name": "json-set-string",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Set string value at a path in a JSON file",
   "main": "json-set-string.js",
   "bin": {
