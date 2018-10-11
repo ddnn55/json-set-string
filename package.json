@@ -9,6 +9,5 @@
   "repository": "https://github.com/gimlids/json-set-string",
   "author": "David Stolarsky",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
